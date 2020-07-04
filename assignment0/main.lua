@@ -239,7 +239,7 @@ function love.update(dt)
         player2.y = VIRTUAL_HEIGHT / 2 - 8
     end
 
-    -- player 1
+    -- player-1
     -- if love.keyboard.isDown('w') then
     --     player1.dy = -PADDLE_SPEED
     -- elseif love.keyboard.isDown('s') then
